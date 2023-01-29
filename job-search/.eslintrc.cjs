@@ -6,7 +6,7 @@ module.exports = {
   extends: [
     "plugin:vue/vue3-recommended",
     "eslint:recommended",
-    "@vue/eslint-config-prettier",
+    "@vue/eslint-config-typescript",
     "plugin:vitest-globals/recommended",
   ],
   parserOptions: {
